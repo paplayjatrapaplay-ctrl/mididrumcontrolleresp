@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.MidiDrum" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#FF0A0A0F</item>
+        <item name="android:navigationBarColor">#FF0A0A0F</item>
+    </style>
+</resources>
